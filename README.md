@@ -1,2 +1,2 @@
 # hellow-world
-TMG Test Project
+This is a TMG test
